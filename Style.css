@@ -1,0 +1,18 @@
+
+    .main {
+      background-color: aqua;
+      color: red;
+      height: 400px;
+      width: 600px;
+      border: 3px red dotted;
+      margin: auto;
+      margin-top: 100px;
+      align-items: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .tab {
+      background-color: yellow;
+      font-size: 25px;
+    }
